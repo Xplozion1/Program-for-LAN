@@ -67,3 +67,35 @@
 
 После запуска откроется главная форма, где можно выбрать метод оптимизации, задать параметры и сохранить/сравнить
 полученные конфигурации.
+
+### Главное меню программы:
+
+<img width="910" height="541" alt="image" src="https://github.com/user-attachments/assets/1ff17976-6d1e-4682-ba4e-2abd1ec80aee" />
+
+### Интерфейс метода взвешенных сумм (для коммутатора):
+
+<img width="537" height="887" alt="image" src="https://github.com/user-attachments/assets/8349f4cf-2ab7-471b-9bda-89fac714a678" />
+
+### Интерфейс симплекс-метода (для маршрутизатора):
+
+<img width="595" height="1152" alt="image" src="https://github.com/user-attachments/assets/e38527d2-3136-47bf-adc4-f506e175d318" />
+
+### Интерфейс генетического алгоритма (для сервера):
+
+<img width="541" height="1227" alt="image" src="https://github.com/user-attachments/assets/4b58ae71-0923-4894-916f-443ba39a4b04" />
+
+### Вывод полученной конфигурации:
+
+<img width="894" height="1022" alt="image" src="https://github.com/user-attachments/assets/37ce0c74-823c-4af2-8780-7a69ddaea290" />
+
+### Расчет стоимости и сравнение конфигураций:
+
+<img width="939" height="500" alt="image" src="https://github.com/user-attachments/assets/c91fed9c-f138-40c3-a63a-8e6966b4bdd6" />
+
+
+
+
+
+
+
+
